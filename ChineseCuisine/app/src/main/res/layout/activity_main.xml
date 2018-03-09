@@ -67,10 +67,10 @@
                android:layout_gravity="center"
                android:src="@drawable/meal" />
 
-           <CheckBox
-               android:layout_width="wrap_content"
-               android:layout_height="wrap_content"
-               android:text="Orange Chicken" />
+           <!--<CheckBox-->
+               <!--android:layout_width="wrap_content"-->
+               <!--android:layout_height="wrap_content"-->
+               <!--android:text="Orange Chicken" />-->
 
            <!--<ImageView-->
                <!--android:layout_width="200dp"-->
